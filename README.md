@@ -1,1 +1,0 @@
-A full-stack MERN Employee Management System designed to simplify workforce management with secure authentication, employee profiles, department management, real-time CRUD operations, and an intuitive admin dashboard.
